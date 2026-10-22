@@ -1,0 +1,28 @@
+{
+  "name": "com.cellpot.neon-signs",
+  "version": "1.0.0",
+  "displayName": "Neon Signs",
+  "description": "3D neon lettering from any font, and a flickering neon glow shader that works on any mesh. Built-in Render Pipeline, no runtime scripts.",
+  "unity": "6000.0",
+  "license": "MIT",
+  "author": {
+    "name": "cellpot",
+    "url": "https://github.com/CellPot"
+  },
+  "documentationUrl": "https://github.com/CellPot/neon-signs#readme",
+  "keywords": [
+    "neon",
+    "sign",
+    "text",
+    "shader",
+    "glow",
+    "tabletop simulator"
+  ],
+  "samples": [
+    {
+      "displayName": "Examples",
+      "description": "Two signs: a glass tube and an LED strip, with their materials and a prefab.",
+      "path": "Samples~/Examples"
+    }
+  ]
+}
